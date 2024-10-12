@@ -13,6 +13,7 @@ Design a low-level system for a parking lot that satisfies the following require
 Please provide a detailed low-level design for the parking lot system that can handle the above requirements. You should consider how the parking lot will handle incoming and outgoing vehicles, track parking spots, generate and process parking tickets, and manage payments. Additionally, you should consider how the system will communicate with the display board and handle different parking strategies.
 
 1. The parking lot should have the ability to offer car wash and electric charging services to customers at the parking spot.
+2. The parking lot should have the ability to offer car wash and electric charging services to customers at the parking spot.
 
 Please incorporate this requirement into your design by considering how the system will handle these additional services. For example, you could consider how customers will be able to request these services, how the system will track which cars need these services, and how payment for these services will be processed.
 
