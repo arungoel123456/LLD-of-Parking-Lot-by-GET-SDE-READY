@@ -21,6 +21,9 @@ Please incorporate this requirement into your design by considering how the syst
 Checkout our course on System Design here: https://getsdeready.com/courses/design-combined/
 
 Follow us on:
+
 LinkedIn: https://www.linkedin.com/in/arungoel0810
+
 Instagram: https://www.instagram.com/getsdeready/
+
 Youtube Tutorial for this: https://www.youtube.com/watch?v=a2RKkImpup0&list=PLBVgGorejfVDLh5a9Kh6VidG5VzjQRmdY&ab_channel=GETSDEREADY 
